@@ -1,0 +1,8 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainbox:hover{
+  box-shadow: rgba(7, 7, 255, 0.699) 0px 5px 15px;
+  transition: ease-in-out 0.5s;
+} */
