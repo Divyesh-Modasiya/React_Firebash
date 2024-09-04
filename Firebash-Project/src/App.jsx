@@ -12,8 +12,8 @@ function App() {
      <BrowserRouter>
      <Routes>
       <Route path = '/' Component={Signup} />
-      <Route path = 'login' Component={Login} />
-      <Route path = 'deshbord' Component={Dashbord} />
+      <Route path = '/login' Component={Login} />
+      <Route path = '/deshbord' Component={Dashbord} />
      </Routes>
      </BrowserRouter>
     </>

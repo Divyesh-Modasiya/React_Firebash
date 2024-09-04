@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.mainbox{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.firstbox{
+    background: rgb(255,75,45);
+background: linear-gradient(90deg, rgba(255,75,45,1) 19%, rgba(255,70,72,1) 67%);
+}
+.subbox{
+    background: rgb(255,75,45);
+background: linear-gradient(0deg, rgba(255,75,45,1) 19%, rgba(255,70,72,1) 50%);
+}
